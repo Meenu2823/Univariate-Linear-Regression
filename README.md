@@ -49,8 +49,8 @@ plt.show()
 
 ```
 ## Output
-</br>![Alt text](<Mths exp9.png>)
-</br>
+</br>![Alt text](exp9.png)
+</br>![Alt text](output9.png)
 </br>
 </br>
 
